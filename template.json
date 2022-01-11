@@ -1,3 +1,4 @@
 [
-    {"title": "Avee Template 1", "url": "landscape/template/visualizer_1.viz", "image": "landscape/image/template1.jpg"}
+    {"title": "Avee Template 1", "url": "landscape/template/visualizer_1.viz", "image": "landscape/image/template1.jpg"},
+    {"title": "Avee Template 2", "url": "landscape/template/visualizer_2.viz", "image": "landscape/image/template2.png"}
 ]
